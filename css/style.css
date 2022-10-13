@@ -9,11 +9,7 @@ html{
     padding: 20px;
     text-transform: capitalize;
     font: bold 25px 'Open Sans', sans-serif;
-}
-
-.head-bar-line{
-    background-color: #ffa500;
-    height: 6px;
+    border-bottom: 5px solid #fd8a24;
 }
 
 .container{
